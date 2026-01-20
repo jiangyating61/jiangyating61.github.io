@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jeiazone</title>
+    <link href="https://jeiazone.com/feed.xml" rel="self" />
+    <link href="https://jeiazone.com" />
+    <updated>2026-01-20T17:35:27+01:00</updated>
+    <author>
+        <name>Jeia</name>
+    </author>
+    <id>https://jeiazone.com</id>
+
+    <entry>
+        <title>开张大吉！</title>
+        <author>
+            <name>Jeia</name>
+        </author>
+        <link href="https://jeiazone.com/kai-zhang-da-ji.html"/>
+        <id>https://jeiazone.com/kai-zhang-da-ji.html</id>
+
+        <updated>2026-01-20T17:35:27+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    今天开始正式更新内容啦！
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    今天开始正式更新内容啦！
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

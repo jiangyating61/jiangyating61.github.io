@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jeiazone",
+    "description": "",
+    "home_page_url": "https://jeiazone.com",
+    "feed_url": "https://jeiazone.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jeia"
+    },
+    "items": [
+        {
+            "id": "https://jeiazone.com/kai-zhang-da-ji.html",
+            "url": "https://jeiazone.com/kai-zhang-da-ji.html",
+            "title": "开张大吉！",
+            "summary": "今天开始正式更新内容啦！",
+            "content_html": "\n  <p>\n    今天开始正式更新内容啦！\n  </p>",
+            "author": {
+                "name": "Jeia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-20T17:35:27+01:00",
+            "date_modified": "2026-01-20T17:35:27+01:00"
+        }
+    ]
+}
